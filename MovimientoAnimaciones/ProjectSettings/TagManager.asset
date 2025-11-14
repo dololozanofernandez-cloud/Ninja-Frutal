@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Coleccionable
+  - Trampolin
+  - Trampa
+  - Vacio
+  - SiguienteNivel
+  - BolaPinchos
+  - Fuego
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Suelo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 212010361
+    locked: 0
+  - name: Coleccionables
+    uniqueID: 2577523391
+    locked: 0
+  - name: Plataformas
+    uniqueID: 1538349631
+    locked: 0
+  - name: Jugador
+    uniqueID: 60714601
+    locked: 0
+  m_RenderingLayers:
+  - Default

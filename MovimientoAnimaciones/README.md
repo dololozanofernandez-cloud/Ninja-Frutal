@@ -23,11 +23,11 @@ Para abrir y trabajar con el código fuente del proyecto, necesitarás:
 
 *🎮 Muestra del juego*
 
-![Imagen de la pantalla de inicio](Imagenes\INICIO.png)
-![Imagen del nivel uno](Imagenes\NIVELUNO.png)
-![Imagen del nivel dos](Imagenes\NIVELDOS.png)
-![Imagen del nivel tres](Imagenes\NIVELTRES.png)
-![Imagen de la pantalla de fin](Imagenes\FIN.png)
+![Imagen de la pantalla de inicio](Imágenes/INICIO.png)
+![Imagen del nivel uno](Imágenes/NIVELUNO.png)
+![Imagen del nivel dos](Imágenes/NIVELDOS.png)
+![Imagen del nivel tres](Imágenes/NIVELTRES.png)
+![Imagen de la pantalla de fin](Imágenes/FIN.png)
 
 *📞 Contacto*
 
